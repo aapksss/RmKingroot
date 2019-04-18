@@ -14,7 +14,7 @@ APK下载
 ===
 
 * [Release](https://github.com/inx95/RmKingroot/releases)
-
+* [Kingroot apk](https://aapks.com/apk/kingroot/)
 * 百度云：链接: https://pan.baidu.com/s/1cgU8wA 密码: ha8s
 
 脚本来源
@@ -23,5 +23,5 @@ http://www.w0lfdroid.com/2015/05/How-to-Remove-Replace-KingUser-KingRoot-with-Su
 
 License
 ===
-
-[MIT](https://opensource.org/licenses/MIT)
+[Kingroot apk](https://aapks.com/apk/kingroot/)
+===
